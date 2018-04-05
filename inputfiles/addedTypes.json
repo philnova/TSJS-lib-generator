@@ -408,7 +408,7 @@
                             "override-signatures": [
                                 "set(name: string, value: string): void"
                             ]
-                        }
+                        },
                         "toString": {
                             "name": "toString",
                             "override-signatures": [
