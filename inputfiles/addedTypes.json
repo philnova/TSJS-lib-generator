@@ -420,7 +420,7 @@
                             "override-signatures": [
                                 "values(): IterableIterator<string>"
                             ]
-                        },
+                        }
                     }
                 },
                 "constructor": {
